@@ -1,5 +1,4 @@
 # coding = UTF-8
-# 爬取李东风PDF文档,网址：http://www.math.pku.edu.cn/teachers/lidf/docs/textrick/index.htm
 import requests
 import time
 import os
